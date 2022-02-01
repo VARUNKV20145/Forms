@@ -1,0 +1,50 @@
+body{
+background-color:#E8A87C;
+}
+h1{font-family: 'Roboto Slab', serif;
+font-style:Bold;
+font-weight:00;
+color:#E8A87C;
+text-align:center;
+}
+p{
+color:#E8A87C;
+}
+form{font-family: 'Roboto Slab', serif;
+font-style:regular;
+font-weight:400;
+box-sizing: border-box;
+  border: 15px solid #ccc;
+border-radius:8px;
+background-color:white;
+max-width:500px;
+margin-top:500px;
+margin:auto;
+border-color: white;
+border-size:2px;
+border-radius:4px;
+}
+.submit{font-family: 'Old Standard TT', serif;
+font-style:regular;
+font-weight:400;
+font-size:30;
+background-color:#E8A87C;
+border: none;
+color:white ;
+padding:15px 20px;
+cursor: pointer;
+width: 100%;
+opacity:0.9;
+}
+.input-field{
+width:100%;
+padding:10px;
+outline:none;
+box-sizing: border-box;
+  border: 3px solid #ccc;
+border-radius:12px;
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
